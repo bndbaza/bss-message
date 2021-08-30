@@ -13,5 +13,3 @@ class Entry(Base):
     Content = Column(String(500))
     Sender = Column(String(200))
     Wey = Column(String(200))
-
-
